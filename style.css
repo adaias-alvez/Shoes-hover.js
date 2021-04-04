@@ -29,7 +29,7 @@
         transform-style: preserve-3d;
         border-radius: 20px;
         display: flex;
-    }
+}
     .c .box::before{
         content: 'Adidas';
         position: absolute;
