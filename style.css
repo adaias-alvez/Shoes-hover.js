@@ -11,6 +11,7 @@
         min-height: 100vh;
         background: #131313;
         overflow: hidden;
+            transform: scale(0.5)
     }
     .c{
         position: relative;
