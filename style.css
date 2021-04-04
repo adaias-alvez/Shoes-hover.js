@@ -10,6 +10,7 @@
         align-items: center;
         min-height: 100vh;
         background: #131313;
+        transform: scale(3);    
     }
     .c{
         position: relative;
