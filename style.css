@@ -10,7 +10,6 @@
         align-items: center;
         min-height: 100vh;
         background: #131313;
-        flex-wrap: wrap:
         overflow: hidden;
     }
     .c{
@@ -18,6 +17,8 @@
         justify-content: center;
         align-items: center;
         width: 1200px;
+        flex-wrap: wrap;
+        display: flex;
         transform-style: preserve-3d;
     }
     .c .box{
@@ -28,6 +29,7 @@
         background: #232323;
         transform-style: preserve-3d;
         border-radius: 20px;
+        display: flex;
     }
     .c .box::before{
         content: 'Adidas';
