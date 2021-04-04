@@ -10,6 +10,8 @@
         align-items: center;
         min-height: 100vh;
         background: #131313;
+        flex-wrap: wrap:
+        overflow: hidden;
     }
     .c{
         position: relative;
